@@ -90,3 +90,44 @@
   font-size: var(--font-size-xl);
   color: var(--color-darkslategray);
 }
+.personalized-services,
+.span {
+  color: var(--color-midnightblue-100);
+}
+.making-every-stay,
+.want-to-elevate,
+.we-are-your-container {
+  position: absolute;
+  margin: 0 !important;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  z-index: 7;
+}
+.we-are-your-container {
+  height: 207px;
+  width: 646px;
+  top: 322px;
+  left: 98px;
+  font-size: var(--font-size-27xl);
+  font-weight: 800;
+  font-family: inherit;
+  white-space: pre-wrap;
+}
+.making-every-stay,
+.want-to-elevate {
+  font-weight: 600;
+}
+.making-every-stay {
+  width: 646px;
+  bottom: 160px;
+  left: 130px;
+  text-align: right;
+  white-space: nowrap;
+}
+.want-to-elevate {
+  height: 109px;
+  width: 708px;
+  bottom: 268px;
+  left: 99px;
+  color: var(--color-midnightblue-100);
+}
