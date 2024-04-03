@@ -167,3 +167,29 @@
   flex-shrink: 0;
   z-index: 4;
 }
+.message-box-child {
+  width: 1440px;
+  height: 427px;
+  position: relative;
+  background-color: var(--color-aliceblue);
+  display: none;
+  max-width: 100%;
+}
+.seamlessly-integrated-with {
+  height: 48px;
+  width: 968px;
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  z-index: 6;
+}
+.seamlessly-integrated-with-lea-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 63px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
