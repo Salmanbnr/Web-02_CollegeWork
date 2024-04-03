@@ -131,3 +131,12 @@
   left: 99px;
   color: var(--color-midnightblue-100);
 }
+.travelingpana-icon {
+  height: 434.2px;
+  width: 623.1px;
+  position: absolute;
+  margin: 0 !important;
+  right: 124.9px;
+  bottom: 214.8px;
+  z-index: 8;
+}
