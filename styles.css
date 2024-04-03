@@ -726,3 +726,163 @@
   box-sizing: border-box;
   max-width: 100%;
 }
+.client-testimonials {
+  margin: 0;
+  width: 551px;
+  height: 69px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.mask-group-icon1 {
+  height: 77px;
+  width: 77px;
+  position: relative;
+  object-fit: cover;
+}
+.dan-claire {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 56px;
+  display: inline-block;
+  max-width: 100%;
+}
+.dan-claire-wrapper {
+  width: 686px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.star-icon,
+.star-icon1,
+.star-icon2,
+.star-icon3,
+.star-icon4 {
+  height: 39px;
+  width: 39px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 39px;
+}
+.star-icon1,
+.star-icon2,
+.star-icon3,
+.star-icon4 {
+  z-index: 1;
+}
+.star-icon2,
+.star-icon3,
+.star-icon4 {
+  z-index: 2;
+}
+.star-icon3,
+.star-icon4 {
+  height: 38.5px;
+  z-index: 3;
+}
+.star-icon4 {
+  z-index: 4;
+}
+.star-parent {
+  height: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.day-ago1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-14xl);
+}
+.day-ago {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.03em;
+  font-weight: 800;
+  display: inline-block;
+  max-width: 100%;
+}
+.star-icon5,
+.star-icon6,
+.star-icon7 {
+  height: 39px;
+  width: 39px;
+  position: absolute;
+  margin: 0 !important;
+  top: -12px;
+  right: 83px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.star-icon6,
+.star-icon7 {
+  right: 44px;
+  z-index: 3;
+}
+.star-icon7 {
+  right: 5px;
+  z-index: 4;
+}
+.day-ago-parent,
+.frame-parent4 {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.day-ago-parent {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  min-width: 345px;
+  max-width: 100%;
+}
+.frame-parent4 {
+  align-self: stretch;
+  gap: 10px;
+  margin-top: -7px;
+  color: var(--dark-blu-brand);
+}
+.frame-parent3,
+.frame-parent4,
+.mask-group-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent3 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 478px;
+}
+.mask-group-parent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: var(--gap-base);
+}
+.i-recently-had {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 30px;
+  display: inline-block;
+  max-width: 100%;
+}
