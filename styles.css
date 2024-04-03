@@ -80,3 +80,13 @@
   min-width: 83px;
   z-index: 7;
 }
+.logo-master-parent {
+  height: 934px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  z-index: 1;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+}
