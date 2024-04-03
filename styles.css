@@ -41,16 +41,6 @@
   position: relative;
   white-space: nowrap;
 }
-.line-roundedchevron-down {
-  height: 20px;
-  width: 20px;
-  position: relative;
-  overflow: hidden;
-  flex-shrink: 0;
-  min-height: 20px;
-  z-index: 3;
-  margin-left: -91px;
-}
 .footer {
   position: absolute;
   top: 77px;
