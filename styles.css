@@ -348,3 +348,178 @@
   color: var(--dark-blu-brand);
   font-family: var(--font-poppins);
 }
+
+.kayak-logo-1-icon {
+  width: 292.3px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.info-box {
+  margin-left: -1931px;
+  height: 219px;
+  width: 1856.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 163px 0 0;
+  box-sizing: border-box;
+  max-width: 151%;
+  flex-shrink: 0;
+}
+.healthy-lifestylebro-icon {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  width: 100%;
+  height: 100%;
+  transform: scale(1.1);
+}
+.wrapper-healthy-lifestylebro {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.calendar-icon {
+  height: 213.8px;
+  width: 230.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 8.6px;
+  box-sizing: border-box;
+}
+.floor-icon {
+  position: absolute;
+  top: 96.5px;
+  left: 3.1px;
+  width: 241.9px;
+  height: 129.1px;
+}
+.picture-icon,
+.picture-icon1 {
+  position: absolute;
+  top: 16.4px;
+  left: 156.1px;
+  width: 16.5px;
+  height: 46.1px;
+}
+.picture-icon1 {
+  left: 77.6px;
+}
+.window-icon,
+.window-icon1 {
+  position: absolute;
+  top: 26.1px;
+  left: 178.3px;
+  width: 50.2px;
+  height: 66.9px;
+}
+.window-icon1 {
+  left: 21.7px;
+}
+.shadows-icon {
+  position: absolute;
+  width: calc(100% - 23.2px);
+  top: 96.9px;
+  right: 11.2px;
+  left: 12px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100.7px;
+  z-index: 1;
+}
+.plants-icon,
+.table-icon {
+  position: absolute;
+  top: 106.1px;
+  left: 2.5px;
+  width: 240.9px;
+  height: 52.3px;
+  z-index: 2;
+}
+.table-icon {
+  top: 0;
+  left: 0;
+  width: 189.9px;
+  height: 181px;
+  z-index: 3;
+}
+.character-2-icon {
+  position: absolute;
+  top: 50.9px;
+  left: 142.8px;
+  width: 76px;
+  height: 139.2px;
+  z-index: 4;
+}
+.character-1-icon,
+.speech-bubble-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 78.3px;
+  height: 190.2px;
+  z-index: 4;
+}
+.speech-bubble-icon {
+  top: 28.4px;
+  left: 110.4px;
+  width: 27.2px;
+  height: 29.2px;
+}
+.floor-parent {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.catering-serviceamico {
+  height: 225.6px;
+  width: 245px;
+  filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.25));
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.yachtpana-icon {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  width: 100%;
+  height: 100%;
+  transform: scale(1.112);
+}
+.wrapper-yachtpana {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
