@@ -523,3 +523,206 @@
   align-items: center;
   justify-content: center;
 }
+.feature-item {
+  height: 186.1px;
+  width: 322.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6.9px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.subscribe-form {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 75.1px;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  max-width: 100%;
+}
+.car-drivingrafiki-icon,
+.wrapper-car-drivingrafiki {
+  align-self: stretch;
+  flex: 1;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.car-drivingrafiki-icon {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  width: 100%;
+  height: 100%;
+  transform: scale(1.097);
+}
+.wrapper-car-drivingrafiki {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main-button,
+.tab-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.main-button {
+  height: 208px;
+  width: 281.6px;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.tab-container {
+  width: 1381.6px;
+  flex-direction: row;
+  padding: 0 77px 102.4px;
+  gap: 74.9px;
+  max-width: 100%;
+}
+.button-rectangle {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: var(--color-royalblue-100);
+}
+.view-cart {
+  width: 151px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 24px;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+  z-index: 1;
+}
+.component-2,
+.component-2-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.component-2 {
+  cursor: pointer;
+  border: 0;
+  padding: 16.4px 60.4px 15.6px 60.6px;
+  background-color: transparent;
+  justify-content: flex-start;
+  position: relative;
+  white-space: nowrap;
+  z-index: 7;
+}
+.component-2-wrapper {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 192px var(--padding-3xl);
+}
+.union-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: -208px;
+  max-height: 100%;
+  width: 1716.3px;
+  object-fit: contain;
+  z-index: 2;
+}
+.vaultrafiki-icon {
+  position: absolute;
+  top: 89.2px;
+  left: 781px;
+  width: 632px;
+  height: 464.7px;
+  z-index: 3;
+}
+.union-parent {
+  width: 100%;
+  height: 808.1px;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: 1173px;
+  left: 0;
+}
+.at-venu {
+  white-space: pre-wrap;
+}
+.professional-suppliers,
+.quality-is-paramount {
+  color: var(--color-royalblue-100);
+}
+.at-venu-quality-container {
+  margin: 0;
+  align-self: stretch;
+  height: 336px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  line-height: 56px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 3;
+}
+.blank-line,
+.professional-suppliers-weve,
+.purchase-protection-your {
+  margin: 0;
+}
+.professional-suppliers-weve-container {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 30px;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.at-venu-quality-is-paramount-parent,
+.professional-suppliers-weve-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.professional-suppliers-weve-wrapper {
+  width: 529.4px;
+  flex-direction: row;
+  padding: 0 4px 0 3.7px;
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  color: var(--color-royalblue-100);
+}
+.at-venu-quality-is-paramount-parent {
+  width: 611px;
+  flex-direction: column;
+  gap: 46px;
+}
+.frame-wrapper {
+  width: 861.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 121px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
